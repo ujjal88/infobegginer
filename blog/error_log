@@ -1,0 +1,370 @@
+[14-Jul-2019 16:38:56 America/New_York] PHP Parse error:  syntax error, unexpected '{' in /home/uzzaorti/infobeginner.com/index.php on line 45
+[14-Jul-2019 16:41:14 America/New_York] PHP Parse error:  syntax error, unexpected '{' in /home/uzzaorti/infobeginner.com/index.php on line 45
+[14-Jul-2019 16:43:24 America/New_York] PHP Warning:  include(inc/config.php): failed to open stream: No such file or directory in /home/uzzaorti/infobeginner.com/index.php on line 3
+[14-Jul-2019 16:43:24 America/New_York] PHP Warning:  include(inc/config.php): failed to open stream: No such file or directory in /home/uzzaorti/infobeginner.com/index.php on line 3
+[14-Jul-2019 16:43:24 America/New_York] PHP Warning:  include(): Failed opening 'inc/config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/uzzaorti/infobeginner.com/index.php on line 3
+[14-Jul-2019 16:43:24 America/New_York] PHP Warning:  include(inc/Database.php): failed to open stream: No such file or directory in /home/uzzaorti/infobeginner.com/index.php on line 4
+[14-Jul-2019 16:43:24 America/New_York] PHP Warning:  include(inc/Database.php): failed to open stream: No such file or directory in /home/uzzaorti/infobeginner.com/index.php on line 4
+[14-Jul-2019 16:43:24 America/New_York] PHP Warning:  include(): Failed opening 'inc/Database.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/uzzaorti/infobeginner.com/index.php on line 4
+[14-Jul-2019 16:43:24 America/New_York] PHP Fatal error:  Class 'Database' not found in /home/uzzaorti/infobeginner.com/index.php on line 9
+[14-Jul-2019 16:44:14 America/New_York] PHP Warning:  include(inc/config.php): failed to open stream: No such file or directory in /home/uzzaorti/infobeginner.com/index.php on line 3
+[14-Jul-2019 16:44:14 America/New_York] PHP Warning:  include(inc/config.php): failed to open stream: No such file or directory in /home/uzzaorti/infobeginner.com/index.php on line 3
+[14-Jul-2019 16:44:14 America/New_York] PHP Warning:  include(): Failed opening 'inc/config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/uzzaorti/infobeginner.com/index.php on line 3
+[14-Jul-2019 16:44:14 America/New_York] PHP Warning:  include(inc/Database.php): failed to open stream: No such file or directory in /home/uzzaorti/infobeginner.com/index.php on line 4
+[14-Jul-2019 16:44:14 America/New_York] PHP Warning:  include(inc/Database.php): failed to open stream: No such file or directory in /home/uzzaorti/infobeginner.com/index.php on line 4
+[14-Jul-2019 16:44:14 America/New_York] PHP Warning:  include(): Failed opening 'inc/Database.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/uzzaorti/infobeginner.com/index.php on line 4
+[14-Jul-2019 16:44:14 America/New_York] PHP Fatal error:  Class 'Database' not found in /home/uzzaorti/infobeginner.com/index.php on line 9
+[14-Jul-2019 16:45:46 America/New_York] PHP Warning:  include(inc/config.php): failed to open stream: No such file or directory in /home/uzzaorti/infobeginner.com/index.php on line 3
+[14-Jul-2019 16:45:46 America/New_York] PHP Warning:  include(inc/config.php): failed to open stream: No such file or directory in /home/uzzaorti/infobeginner.com/index.php on line 3
+[14-Jul-2019 16:45:46 America/New_York] PHP Warning:  include(): Failed opening 'inc/config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/uzzaorti/infobeginner.com/index.php on line 3
+[14-Jul-2019 16:45:46 America/New_York] PHP Warning:  include(inc/Database.php): failed to open stream: No such file or directory in /home/uzzaorti/infobeginner.com/index.php on line 4
+[14-Jul-2019 16:45:46 America/New_York] PHP Warning:  include(inc/Database.php): failed to open stream: No such file or directory in /home/uzzaorti/infobeginner.com/index.php on line 4
+[14-Jul-2019 16:45:46 America/New_York] PHP Warning:  include(): Failed opening 'inc/Database.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/uzzaorti/infobeginner.com/index.php on line 4
+[14-Jul-2019 16:45:46 America/New_York] PHP Fatal error:  Class 'Database' not found in /home/uzzaorti/infobeginner.com/index.php on line 9
+[14-Jul-2019 16:48:25 America/New_York] PHP Warning:  include(inc/config.php): failed to open stream: No such file or directory in /home/uzzaorti/infobeginner.com/index.php on line 3
+[14-Jul-2019 16:48:25 America/New_York] PHP Warning:  include(inc/config.php): failed to open stream: No such file or directory in /home/uzzaorti/infobeginner.com/index.php on line 3
+[14-Jul-2019 16:48:25 America/New_York] PHP Warning:  include(): Failed opening 'inc/config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/uzzaorti/infobeginner.com/index.php on line 3
+[14-Jul-2019 16:48:25 America/New_York] PHP Warning:  include(inc/Database.php): failed to open stream: No such file or directory in /home/uzzaorti/infobeginner.com/index.php on line 4
+[14-Jul-2019 16:48:25 America/New_York] PHP Warning:  include(inc/Database.php): failed to open stream: No such file or directory in /home/uzzaorti/infobeginner.com/index.php on line 4
+[14-Jul-2019 16:48:25 America/New_York] PHP Warning:  include(): Failed opening 'inc/Database.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/uzzaorti/infobeginner.com/index.php on line 4
+[14-Jul-2019 16:48:25 America/New_York] PHP Fatal error:  Class 'Database' not found in /home/uzzaorti/infobeginner.com/index.php on line 9
+[14-Jul-2019 16:49:21 America/New_York] PHP Warning:  include(inc/config.php): failed to open stream: No such file or directory in /home/uzzaorti/infobeginner.com/index.php on line 3
+[14-Jul-2019 16:49:21 America/New_York] PHP Warning:  include(inc/config.php): failed to open stream: No such file or directory in /home/uzzaorti/infobeginner.com/index.php on line 3
+[14-Jul-2019 16:49:21 America/New_York] PHP Warning:  include(): Failed opening 'inc/config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/uzzaorti/infobeginner.com/index.php on line 3
+[14-Jul-2019 16:49:21 America/New_York] PHP Warning:  include(inc/Database.php): failed to open stream: No such file or directory in /home/uzzaorti/infobeginner.com/index.php on line 4
+[14-Jul-2019 16:49:21 America/New_York] PHP Warning:  include(inc/Database.php): failed to open stream: No such file or directory in /home/uzzaorti/infobeginner.com/index.php on line 4
+[14-Jul-2019 16:49:21 America/New_York] PHP Warning:  include(): Failed opening 'inc/Database.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/uzzaorti/infobeginner.com/index.php on line 4
+[14-Jul-2019 16:49:21 America/New_York] PHP Fatal error:  Class 'Database' not found in /home/uzzaorti/infobeginner.com/index.php on line 9
+[14-Jul-2019 16:49:24 America/New_York] PHP Warning:  include(inc/config.php): failed to open stream: No such file or directory in /home/uzzaorti/infobeginner.com/index.php on line 3
+[14-Jul-2019 16:49:24 America/New_York] PHP Warning:  include(inc/config.php): failed to open stream: No such file or directory in /home/uzzaorti/infobeginner.com/index.php on line 3
+[14-Jul-2019 16:49:24 America/New_York] PHP Warning:  include(): Failed opening 'inc/config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/uzzaorti/infobeginner.com/index.php on line 3
+[14-Jul-2019 16:49:24 America/New_York] PHP Warning:  include(inc/Database.php): failed to open stream: No such file or directory in /home/uzzaorti/infobeginner.com/index.php on line 4
+[14-Jul-2019 16:49:24 America/New_York] PHP Warning:  include(inc/Database.php): failed to open stream: No such file or directory in /home/uzzaorti/infobeginner.com/index.php on line 4
+[14-Jul-2019 16:49:24 America/New_York] PHP Warning:  include(): Failed opening 'inc/Database.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/uzzaorti/infobeginner.com/index.php on line 4
+[14-Jul-2019 16:49:24 America/New_York] PHP Fatal error:  Class 'Database' not found in /home/uzzaorti/infobeginner.com/index.php on line 9
+[14-Jul-2019 16:49:54 America/New_York] PHP Warning:  include(inc/config.php): failed to open stream: No such file or directory in /home/uzzaorti/infobeginner.com/index.php on line 3
+[14-Jul-2019 16:49:54 America/New_York] PHP Warning:  include(inc/config.php): failed to open stream: No such file or directory in /home/uzzaorti/infobeginner.com/index.php on line 3
+[14-Jul-2019 16:49:54 America/New_York] PHP Warning:  include(): Failed opening 'inc/config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/uzzaorti/infobeginner.com/index.php on line 3
+[14-Jul-2019 16:49:54 America/New_York] PHP Warning:  include(inc/Database.php): failed to open stream: No such file or directory in /home/uzzaorti/infobeginner.com/index.php on line 4
+[14-Jul-2019 16:49:54 America/New_York] PHP Warning:  include(inc/Database.php): failed to open stream: No such file or directory in /home/uzzaorti/infobeginner.com/index.php on line 4
+[14-Jul-2019 16:49:54 America/New_York] PHP Warning:  include(): Failed opening 'inc/Database.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/uzzaorti/infobeginner.com/index.php on line 4
+[14-Jul-2019 16:49:54 America/New_York] PHP Fatal error:  Class 'Database' not found in /home/uzzaorti/infobeginner.com/index.php on line 9
+[14-Jul-2019 16:50:56 America/New_York] PHP Warning:  include(inc/config.php): failed to open stream: No such file or directory in /home/uzzaorti/infobeginner.com/index.php on line 3
+[14-Jul-2019 16:50:56 America/New_York] PHP Warning:  include(inc/config.php): failed to open stream: No such file or directory in /home/uzzaorti/infobeginner.com/index.php on line 3
+[14-Jul-2019 16:50:56 America/New_York] PHP Warning:  include(): Failed opening 'inc/config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/uzzaorti/infobeginner.com/index.php on line 3
+[14-Jul-2019 16:50:56 America/New_York] PHP Warning:  include(inc/Database.php): failed to open stream: No such file or directory in /home/uzzaorti/infobeginner.com/index.php on line 4
+[14-Jul-2019 16:50:56 America/New_York] PHP Warning:  include(inc/Database.php): failed to open stream: No such file or directory in /home/uzzaorti/infobeginner.com/index.php on line 4
+[14-Jul-2019 16:50:56 America/New_York] PHP Warning:  include(): Failed opening 'inc/Database.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/uzzaorti/infobeginner.com/index.php on line 4
+[14-Jul-2019 16:50:56 America/New_York] PHP Fatal error:  Class 'Database' not found in /home/uzzaorti/infobeginner.com/index.php on line 9
+[14-Jul-2019 16:52:08 America/New_York] PHP Warning:  include(inc/config.php): failed to open stream: No such file or directory in /home/uzzaorti/infobeginner.com/index.php on line 3
+[14-Jul-2019 16:52:08 America/New_York] PHP Warning:  include(inc/config.php): failed to open stream: No such file or directory in /home/uzzaorti/infobeginner.com/index.php on line 3
+[14-Jul-2019 16:52:08 America/New_York] PHP Warning:  include(): Failed opening 'inc/config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/uzzaorti/infobeginner.com/index.php on line 3
+[14-Jul-2019 16:52:08 America/New_York] PHP Warning:  include(inc/Database.php): failed to open stream: No such file or directory in /home/uzzaorti/infobeginner.com/index.php on line 4
+[14-Jul-2019 16:52:08 America/New_York] PHP Warning:  include(inc/Database.php): failed to open stream: No such file or directory in /home/uzzaorti/infobeginner.com/index.php on line 4
+[14-Jul-2019 16:52:08 America/New_York] PHP Warning:  include(): Failed opening 'inc/Database.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/uzzaorti/infobeginner.com/index.php on line 4
+[14-Jul-2019 16:52:08 America/New_York] PHP Fatal error:  Class 'Database' not found in /home/uzzaorti/infobeginner.com/index.php on line 9
+[14-Jul-2019 16:54:29 America/New_York] PHP Warning:  include(inc/confiq.php): failed to open stream: No such file or directory in /home/uzzaorti/infobeginner.com/index.php on line 3
+[14-Jul-2019 16:54:29 America/New_York] PHP Warning:  include(inc/confiq.php): failed to open stream: No such file or directory in /home/uzzaorti/infobeginner.com/index.php on line 3
+[14-Jul-2019 16:54:29 America/New_York] PHP Warning:  include(): Failed opening 'inc/confiq.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/uzzaorti/infobeginner.com/index.php on line 3
+[14-Jul-2019 16:54:29 America/New_York] PHP Warning:  include(inc/Database.php): failed to open stream: No such file or directory in /home/uzzaorti/infobeginner.com/index.php on line 4
+[14-Jul-2019 16:54:29 America/New_York] PHP Warning:  include(inc/Database.php): failed to open stream: No such file or directory in /home/uzzaorti/infobeginner.com/index.php on line 4
+[14-Jul-2019 16:54:29 America/New_York] PHP Warning:  include(): Failed opening 'inc/Database.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/uzzaorti/infobeginner.com/index.php on line 4
+[14-Jul-2019 16:54:29 America/New_York] PHP Fatal error:  Class 'Database' not found in /home/uzzaorti/infobeginner.com/index.php on line 9
+[14-Jul-2019 16:54:31 America/New_York] PHP Warning:  include(inc/confiq.php): failed to open stream: No such file or directory in /home/uzzaorti/infobeginner.com/index.php on line 3
+[14-Jul-2019 16:54:31 America/New_York] PHP Warning:  include(inc/confiq.php): failed to open stream: No such file or directory in /home/uzzaorti/infobeginner.com/index.php on line 3
+[14-Jul-2019 16:54:31 America/New_York] PHP Warning:  include(): Failed opening 'inc/confiq.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/uzzaorti/infobeginner.com/index.php on line 3
+[14-Jul-2019 16:54:31 America/New_York] PHP Warning:  include(inc/Database.php): failed to open stream: No such file or directory in /home/uzzaorti/infobeginner.com/index.php on line 4
+[14-Jul-2019 16:54:31 America/New_York] PHP Warning:  include(inc/Database.php): failed to open stream: No such file or directory in /home/uzzaorti/infobeginner.com/index.php on line 4
+[14-Jul-2019 16:54:31 America/New_York] PHP Warning:  include(): Failed opening 'inc/Database.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/uzzaorti/infobeginner.com/index.php on line 4
+[14-Jul-2019 16:54:31 America/New_York] PHP Fatal error:  Class 'Database' not found in /home/uzzaorti/infobeginner.com/index.php on line 9
+[16-Jul-2019 14:12:55 America/New_York] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/uzzaorti/infobeginner.com/creat.php on line 11
+[16-Jul-2019 14:12:55 America/New_York] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/uzzaorti/infobeginner.com/creat.php on line 11
+[16-Jul-2019 14:12:55 America/New_York] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/uzzaorti/infobeginner.com/creat.php on line 11
+[16-Jul-2019 14:12:55 America/New_York] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/uzzaorti/infobeginner.com/creat.php on line 12
+[16-Jul-2019 14:12:55 America/New_York] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/uzzaorti/infobeginner.com/creat.php on line 12
+[16-Jul-2019 14:12:55 America/New_York] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/uzzaorti/infobeginner.com/creat.php on line 12
+[16-Jul-2019 14:12:55 America/New_York] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/uzzaorti/infobeginner.com/creat.php on line 13
+[16-Jul-2019 14:12:55 America/New_York] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/uzzaorti/infobeginner.com/creat.php on line 13
+[16-Jul-2019 14:12:55 America/New_York] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/uzzaorti/infobeginner.com/creat.php on line 13
+[16-Jul-2019 16:40:02 America/New_York] PHP Parse error:  syntax error, unexpected 'urlencode' (T_STRING) in /home/uzzaorti/infobeginner.com/Database.php on line 54
+[16-Jul-2019 16:40:12 America/New_York] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/uzzaorti/infobeginner.com/index.php on line 20
+[16-Jul-2019 16:41:22 America/New_York] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/uzzaorti/infobeginner.com/index.php on line 20
+[16-Jul-2019 16:41:25 America/New_York] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/uzzaorti/infobeginner.com/index.php on line 20
+[16-Jul-2019 16:41:47 America/New_York] PHP Parse error:  syntax error, unexpected 'urlencode' (T_STRING) in /home/uzzaorti/infobeginner.com/Database.php on line 54
+[16-Jul-2019 16:41:50 America/New_York] PHP Parse error:  syntax error, unexpected 'urlencode' (T_STRING) in /home/uzzaorti/infobeginner.com/Database.php on line 54
+[16-Jul-2019 16:42:23 America/New_York] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/uzzaorti/infobeginner.com/index.php on line 20
+[16-Jul-2019 16:46:47 America/New_York] PHP Parse error:  syntax error, unexpected '{' in /home/uzzaorti/infobeginner.com/index.php on line 51
+[16-Jul-2019 16:46:50 America/New_York] PHP Parse error:  syntax error, unexpected '{' in /home/uzzaorti/infobeginner.com/index.php on line 51
+[16-Jul-2019 16:46:52 America/New_York] PHP Parse error:  syntax error, unexpected '{' in /home/uzzaorti/infobeginner.com/index.php on line 51
+[16-Jul-2019 16:47:17 America/New_York] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/uzzaorti/infobeginner.com/index.php on line 3
+[16-Jul-2019 16:47:17 America/New_York] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/uzzaorti/infobeginner.com/index.php on line 3
+[16-Jul-2019 16:47:17 America/New_York] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/uzzaorti/infobeginner.com/index.php on line 3
+[16-Jul-2019 16:47:17 America/New_York] PHP Parse error:  syntax error, unexpected 'urlencode' (T_STRING) in /home/uzzaorti/infobeginner.com/Database.php on line 54
+[16-Jul-2019 16:47:19 America/New_York] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/uzzaorti/infobeginner.com/index.php on line 3
+[16-Jul-2019 16:47:19 America/New_York] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/uzzaorti/infobeginner.com/index.php on line 3
+[16-Jul-2019 16:47:19 America/New_York] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/uzzaorti/infobeginner.com/index.php on line 3
+[16-Jul-2019 16:47:19 America/New_York] PHP Parse error:  syntax error, unexpected 'urlencode' (T_STRING) in /home/uzzaorti/infobeginner.com/Database.php on line 54
+[16-Jul-2019 16:48:01 America/New_York] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/uzzaorti/infobeginner.com/index.php on line 3
+[16-Jul-2019 16:48:01 America/New_York] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/uzzaorti/infobeginner.com/index.php on line 3
+[16-Jul-2019 16:48:01 America/New_York] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/uzzaorti/infobeginner.com/index.php on line 3
+[16-Jul-2019 16:48:01 America/New_York] PHP Parse error:  syntax error, unexpected 'urlencode' (T_STRING) in /home/uzzaorti/infobeginner.com/Database.php on line 54
+[16-Jul-2019 16:48:05 America/New_York] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/uzzaorti/infobeginner.com/index.php on line 3
+[16-Jul-2019 16:48:05 America/New_York] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/uzzaorti/infobeginner.com/index.php on line 3
+[16-Jul-2019 16:48:05 America/New_York] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/uzzaorti/infobeginner.com/index.php on line 3
+[16-Jul-2019 16:48:05 America/New_York] PHP Parse error:  syntax error, unexpected 'urlencode' (T_STRING) in /home/uzzaorti/infobeginner.com/Database.php on line 54
+[16-Jul-2019 16:49:07 America/New_York] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/uzzaorti/infobeginner.com/index.php on line 3
+[16-Jul-2019 16:49:07 America/New_York] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/uzzaorti/infobeginner.com/index.php on line 3
+[16-Jul-2019 16:49:07 America/New_York] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/uzzaorti/infobeginner.com/index.php on line 3
+[16-Jul-2019 16:49:07 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/uzzaorti/infobeginner.com/index.php on line 9
+[16-Jul-2019 16:49:07 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/uzzaorti/infobeginner.com/index.php on line 9
+[16-Jul-2019 16:49:07 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/uzzaorti/infobeginner.com/index.php on line 9
+[16-Jul-2019 16:49:07 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/uzzaorti/infobeginner.com/index.php on line 9
+[16-Jul-2019 16:49:07 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/uzzaorti/infobeginner.com/Database.php on line 26
+[16-Jul-2019 16:49:07 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/uzzaorti/infobeginner.com/Database.php on line 38
+[16-Jul-2019 16:49:07 America/New_York] PHP Warning:  Database::sectect(): Couldn't fetch mysqli in /home/uzzaorti/infobeginner.com/Database.php on line 38
+[16-Jul-2019 16:53:54 America/New_York] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/uzzaorti/infobeginner.com/index.php on line 3
+[16-Jul-2019 16:53:54 America/New_York] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/uzzaorti/infobeginner.com/index.php on line 3
+[16-Jul-2019 16:53:54 America/New_York] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/uzzaorti/infobeginner.com/index.php on line 3
+[16-Jul-2019 16:53:54 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/uzzaorti/infobeginner.com/index.php on line 9
+[16-Jul-2019 16:53:54 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/uzzaorti/infobeginner.com/index.php on line 9
+[16-Jul-2019 16:53:54 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/uzzaorti/infobeginner.com/index.php on line 9
+[16-Jul-2019 16:53:54 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/uzzaorti/infobeginner.com/index.php on line 9
+[16-Jul-2019 16:53:54 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/uzzaorti/infobeginner.com/Database.php on line 26
+[16-Jul-2019 16:53:54 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/uzzaorti/infobeginner.com/Database.php on line 38
+[16-Jul-2019 16:53:54 America/New_York] PHP Warning:  Database::sectect(): Couldn't fetch mysqli in /home/uzzaorti/infobeginner.com/Database.php on line 38
+[16-Jul-2019 16:53:57 America/New_York] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/uzzaorti/infobeginner.com/index.php on line 3
+[16-Jul-2019 16:53:57 America/New_York] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/uzzaorti/infobeginner.com/index.php on line 3
+[16-Jul-2019 16:53:57 America/New_York] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/uzzaorti/infobeginner.com/index.php on line 3
+[16-Jul-2019 16:53:57 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/uzzaorti/infobeginner.com/index.php on line 9
+[16-Jul-2019 16:53:57 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/uzzaorti/infobeginner.com/index.php on line 9
+[16-Jul-2019 16:53:57 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/uzzaorti/infobeginner.com/index.php on line 9
+[16-Jul-2019 16:53:57 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/uzzaorti/infobeginner.com/index.php on line 9
+[16-Jul-2019 16:53:57 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/uzzaorti/infobeginner.com/Database.php on line 26
+[16-Jul-2019 16:53:57 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/uzzaorti/infobeginner.com/Database.php on line 38
+[16-Jul-2019 16:53:57 America/New_York] PHP Warning:  Database::sectect(): Couldn't fetch mysqli in /home/uzzaorti/infobeginner.com/Database.php on line 38
+[16-Jul-2019 16:55:28 America/New_York] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/uzzaorti/infobeginner.com/index.php on line 3
+[16-Jul-2019 16:55:28 America/New_York] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/uzzaorti/infobeginner.com/index.php on line 3
+[16-Jul-2019 16:55:28 America/New_York] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/uzzaorti/infobeginner.com/index.php on line 3
+[16-Jul-2019 16:55:28 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/uzzaorti/infobeginner.com/index.php on line 9
+[16-Jul-2019 16:55:28 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/uzzaorti/infobeginner.com/index.php on line 9
+[16-Jul-2019 16:55:28 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/uzzaorti/infobeginner.com/index.php on line 9
+[16-Jul-2019 16:55:28 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/uzzaorti/infobeginner.com/index.php on line 9
+[16-Jul-2019 16:55:28 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/uzzaorti/infobeginner.com/Database.php on line 26
+[16-Jul-2019 16:55:28 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/uzzaorti/infobeginner.com/Database.php on line 38
+[16-Jul-2019 16:55:28 America/New_York] PHP Warning:  Database::sectect(): Couldn't fetch mysqli in /home/uzzaorti/infobeginner.com/Database.php on line 38
+[16-Jul-2019 16:58:01 America/New_York] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/uzzaorti/infobeginner.com/index.php on line 3
+[16-Jul-2019 16:58:01 America/New_York] PHP Warning:  include(config.php): failed to open stream: No such file or directory in /home/uzzaorti/infobeginner.com/index.php on line 3
+[16-Jul-2019 16:58:01 America/New_York] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/uzzaorti/infobeginner.com/index.php on line 3
+[16-Jul-2019 16:58:01 America/New_York] PHP Notice:  Use of undefined constant DB_HOST - assumed 'DB_HOST' in /home/uzzaorti/infobeginner.com/index.php on line 9
+[16-Jul-2019 16:58:01 America/New_York] PHP Notice:  Use of undefined constant DB_USER - assumed 'DB_USER' in /home/uzzaorti/infobeginner.com/index.php on line 9
+[16-Jul-2019 16:58:01 America/New_York] PHP Notice:  Use of undefined constant DB_PASS - assumed 'DB_PASS' in /home/uzzaorti/infobeginner.com/index.php on line 9
+[16-Jul-2019 16:58:01 America/New_York] PHP Notice:  Use of undefined constant DB_NAME - assumed 'DB_NAME' in /home/uzzaorti/infobeginner.com/index.php on line 9
+[16-Jul-2019 16:58:01 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/uzzaorti/infobeginner.com/Database.php on line 26
+[16-Jul-2019 16:58:01 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/uzzaorti/infobeginner.com/Database.php on line 38
+[16-Jul-2019 16:58:01 America/New_York] PHP Warning:  Database::select(): Couldn't fetch mysqli in /home/uzzaorti/infobeginner.com/Database.php on line 38
+[16-Jul-2019 17:00:11 America/New_York] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home/uzzaorti/infobeginner.com/creat.php on line 11
+[16-Jul-2019 17:00:11 America/New_York] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home/uzzaorti/infobeginner.com/creat.php on line 12
+[16-Jul-2019 17:00:11 America/New_York] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home/uzzaorti/infobeginner.com/creat.php on line 13
+[16-Jul-2019 17:00:47 America/New_York] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home/uzzaorti/infobeginner.com/creat.php on line 11
+[16-Jul-2019 17:00:47 America/New_York] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home/uzzaorti/infobeginner.com/creat.php on line 12
+[16-Jul-2019 17:00:47 America/New_York] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home/uzzaorti/infobeginner.com/creat.php on line 13
+[16-Jul-2019 17:01:43 America/New_York] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home/uzzaorti/infobeginner.com/creat.php on line 11
+[16-Jul-2019 17:01:43 America/New_York] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home/uzzaorti/infobeginner.com/creat.php on line 12
+[16-Jul-2019 17:01:43 America/New_York] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home/uzzaorti/infobeginner.com/creat.php on line 13
+[16-Jul-2019 17:02:01 America/New_York] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home/uzzaorti/infobeginner.com/creat.php on line 11
+[16-Jul-2019 17:02:01 America/New_York] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home/uzzaorti/infobeginner.com/creat.php on line 12
+[16-Jul-2019 17:02:01 America/New_York] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home/uzzaorti/infobeginner.com/creat.php on line 13
+[16-Jul-2019 17:12:16 America/New_York] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home/uzzaorti/infobeginner.com/creat.php on line 11
+[16-Jul-2019 17:12:16 America/New_York] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home/uzzaorti/infobeginner.com/creat.php on line 12
+[16-Jul-2019 17:12:16 America/New_York] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home/uzzaorti/infobeginner.com/creat.php on line 13
+[16-Jul-2019 17:12:24 America/New_York] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home/uzzaorti/infobeginner.com/creat.php on line 11
+[16-Jul-2019 17:12:24 America/New_York] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home/uzzaorti/infobeginner.com/creat.php on line 12
+[16-Jul-2019 17:12:24 America/New_York] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home/uzzaorti/infobeginner.com/creat.php on line 13
+[16-Jul-2019 17:12:36 America/New_York] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home/uzzaorti/infobeginner.com/creat.php on line 11
+[16-Jul-2019 17:12:36 America/New_York] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home/uzzaorti/infobeginner.com/creat.php on line 12
+[16-Jul-2019 17:12:36 America/New_York] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home/uzzaorti/infobeginner.com/creat.php on line 13
+[16-Jul-2019 17:17:50 America/New_York] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home/uzzaorti/infobeginner.com/creat.php on line 11
+[16-Jul-2019 17:17:50 America/New_York] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home/uzzaorti/infobeginner.com/creat.php on line 12
+[16-Jul-2019 17:17:50 America/New_York] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home/uzzaorti/infobeginner.com/creat.php on line 13
+[16-Jul-2019 17:18:07 America/New_York] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home/uzzaorti/infobeginner.com/creat.php on line 11
+[16-Jul-2019 17:18:07 America/New_York] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home/uzzaorti/infobeginner.com/creat.php on line 12
+[16-Jul-2019 17:18:07 America/New_York] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home/uzzaorti/infobeginner.com/creat.php on line 13
+[16-Jul-2019 17:19:50 America/New_York] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home/uzzaorti/infobeginner.com/creat.php on line 11
+[16-Jul-2019 17:19:50 America/New_York] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home/uzzaorti/infobeginner.com/creat.php on line 12
+[16-Jul-2019 17:19:50 America/New_York] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home/uzzaorti/infobeginner.com/creat.php on line 13
+[16-Jul-2019 17:20:01 America/New_York] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home/uzzaorti/infobeginner.com/creat.php on line 11
+[16-Jul-2019 17:20:01 America/New_York] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home/uzzaorti/infobeginner.com/creat.php on line 12
+[16-Jul-2019 17:20:01 America/New_York] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home/uzzaorti/infobeginner.com/creat.php on line 13
+[16-Jul-2019 17:20:19 America/New_York] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home/uzzaorti/infobeginner.com/creat.php on line 11
+[16-Jul-2019 17:20:19 America/New_York] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home/uzzaorti/infobeginner.com/creat.php on line 12
+[16-Jul-2019 17:20:19 America/New_York] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home/uzzaorti/infobeginner.com/creat.php on line 13
+[16-Jul-2019 17:20:25 America/New_York] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home/uzzaorti/infobeginner.com/creat.php on line 11
+[16-Jul-2019 17:20:25 America/New_York] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home/uzzaorti/infobeginner.com/creat.php on line 12
+[16-Jul-2019 17:20:25 America/New_York] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home/uzzaorti/infobeginner.com/creat.php on line 13
+[16-Jul-2019 17:21:23 America/New_York] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home/uzzaorti/infobeginner.com/creat.php on line 11
+[16-Jul-2019 17:21:23 America/New_York] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home/uzzaorti/infobeginner.com/creat.php on line 12
+[16-Jul-2019 17:21:23 America/New_York] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home/uzzaorti/infobeginner.com/creat.php on line 13
+[16-Jul-2019 17:24:26 America/New_York] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home/uzzaorti/infobeginner.com/creat.php on line 11
+[16-Jul-2019 17:24:26 America/New_York] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home/uzzaorti/infobeginner.com/creat.php on line 12
+[16-Jul-2019 17:24:26 America/New_York] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home/uzzaorti/infobeginner.com/creat.php on line 13
+[16-Jul-2019 17:30:43 America/New_York] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home/uzzaorti/infobeginner.com/creat.php on line 11
+[16-Jul-2019 17:30:43 America/New_York] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home/uzzaorti/infobeginner.com/creat.php on line 12
+[16-Jul-2019 17:30:43 America/New_York] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home/uzzaorti/infobeginner.com/creat.php on line 13
+[16-Jul-2019 17:30:47 America/New_York] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home/uzzaorti/infobeginner.com/creat.php on line 11
+[16-Jul-2019 17:30:47 America/New_York] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home/uzzaorti/infobeginner.com/creat.php on line 12
+[16-Jul-2019 17:30:47 America/New_York] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home/uzzaorti/infobeginner.com/creat.php on line 13
+[16-Jul-2019 17:30:51 America/New_York] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home/uzzaorti/infobeginner.com/creat.php on line 11
+[16-Jul-2019 17:30:51 America/New_York] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home/uzzaorti/infobeginner.com/creat.php on line 12
+[16-Jul-2019 17:30:51 America/New_York] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home/uzzaorti/infobeginner.com/creat.php on line 13
+[16-Jul-2019 17:31:08 America/New_York] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home/uzzaorti/infobeginner.com/creat.php on line 11
+[16-Jul-2019 17:31:08 America/New_York] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home/uzzaorti/infobeginner.com/creat.php on line 12
+[16-Jul-2019 17:31:08 America/New_York] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home/uzzaorti/infobeginner.com/creat.php on line 13
+[16-Jul-2019 17:31:28 America/New_York] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home/uzzaorti/infobeginner.com/creat.php on line 11
+[16-Jul-2019 17:31:28 America/New_York] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home/uzzaorti/infobeginner.com/creat.php on line 12
+[16-Jul-2019 17:31:28 America/New_York] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home/uzzaorti/infobeginner.com/creat.php on line 13
+[16-Jul-2019 17:31:41 America/New_York] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home/uzzaorti/infobeginner.com/creat.php on line 11
+[16-Jul-2019 17:31:41 America/New_York] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home/uzzaorti/infobeginner.com/creat.php on line 12
+[16-Jul-2019 17:31:41 America/New_York] PHP Warning:  mysql_real_escape_string() expects parameter 1 to be string, object given in /home/uzzaorti/infobeginner.com/creat.php on line 13
+[16-Jul-2019 17:33:10 America/New_York] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/uzzaorti/infobeginner.com/creat.php on line 11
+[16-Jul-2019 17:33:10 America/New_York] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/uzzaorti/infobeginner.com/creat.php on line 11
+[16-Jul-2019 17:33:10 America/New_York] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/uzzaorti/infobeginner.com/creat.php on line 11
+[16-Jul-2019 17:33:10 America/New_York] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/uzzaorti/infobeginner.com/creat.php on line 12
+[16-Jul-2019 17:33:10 America/New_York] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/uzzaorti/infobeginner.com/creat.php on line 12
+[16-Jul-2019 17:33:10 America/New_York] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/uzzaorti/infobeginner.com/creat.php on line 12
+[16-Jul-2019 17:33:10 America/New_York] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/uzzaorti/infobeginner.com/creat.php on line 13
+[16-Jul-2019 17:33:10 America/New_York] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/uzzaorti/infobeginner.com/creat.php on line 13
+[16-Jul-2019 17:33:10 America/New_York] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/uzzaorti/infobeginner.com/creat.php on line 13
+[16-Jul-2019 17:33:19 America/New_York] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/uzzaorti/infobeginner.com/creat.php on line 11
+[16-Jul-2019 17:33:19 America/New_York] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/uzzaorti/infobeginner.com/creat.php on line 11
+[16-Jul-2019 17:33:19 America/New_York] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/uzzaorti/infobeginner.com/creat.php on line 11
+[16-Jul-2019 17:33:19 America/New_York] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/uzzaorti/infobeginner.com/creat.php on line 12
+[16-Jul-2019 17:33:19 America/New_York] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/uzzaorti/infobeginner.com/creat.php on line 12
+[16-Jul-2019 17:33:19 America/New_York] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/uzzaorti/infobeginner.com/creat.php on line 12
+[16-Jul-2019 17:33:19 America/New_York] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/uzzaorti/infobeginner.com/creat.php on line 13
+[16-Jul-2019 17:33:19 America/New_York] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/uzzaorti/infobeginner.com/creat.php on line 13
+[16-Jul-2019 17:33:19 America/New_York] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/uzzaorti/infobeginner.com/creat.php on line 13
+[17-Jul-2019 13:17:03 America/New_York] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/uzzaorti/infobeginner.com/creat.php on line 11
+[17-Jul-2019 13:17:03 America/New_York] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/uzzaorti/infobeginner.com/creat.php on line 11
+[17-Jul-2019 13:17:03 America/New_York] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/uzzaorti/infobeginner.com/creat.php on line 11
+[17-Jul-2019 13:17:03 America/New_York] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/uzzaorti/infobeginner.com/creat.php on line 12
+[17-Jul-2019 13:17:03 America/New_York] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/uzzaorti/infobeginner.com/creat.php on line 12
+[17-Jul-2019 13:17:03 America/New_York] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/uzzaorti/infobeginner.com/creat.php on line 12
+[17-Jul-2019 13:17:03 America/New_York] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/uzzaorti/infobeginner.com/creat.php on line 13
+[17-Jul-2019 13:17:03 America/New_York] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/uzzaorti/infobeginner.com/creat.php on line 13
+[17-Jul-2019 13:17:03 America/New_York] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/uzzaorti/infobeginner.com/creat.php on line 13
+[17-Jul-2019 13:27:16 America/New_York] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/uzzaorti/infobeginner.com/creat.php on line 11
+[17-Jul-2019 13:27:16 America/New_York] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/uzzaorti/infobeginner.com/creat.php on line 11
+[17-Jul-2019 13:27:16 America/New_York] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/uzzaorti/infobeginner.com/creat.php on line 11
+[17-Jul-2019 13:27:16 America/New_York] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/uzzaorti/infobeginner.com/creat.php on line 12
+[17-Jul-2019 13:27:16 America/New_York] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/uzzaorti/infobeginner.com/creat.php on line 12
+[17-Jul-2019 13:27:16 America/New_York] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/uzzaorti/infobeginner.com/creat.php on line 12
+[17-Jul-2019 13:27:16 America/New_York] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/uzzaorti/infobeginner.com/creat.php on line 13
+[17-Jul-2019 13:27:16 America/New_York] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/uzzaorti/infobeginner.com/creat.php on line 13
+[17-Jul-2019 13:27:16 America/New_York] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/uzzaorti/infobeginner.com/creat.php on line 13
+[17-Jul-2019 13:32:27 America/New_York] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/uzzaorti/infobeginner.com/creat.php on line 11
+[17-Jul-2019 13:32:27 America/New_York] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/uzzaorti/infobeginner.com/creat.php on line 11
+[17-Jul-2019 13:32:27 America/New_York] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/uzzaorti/infobeginner.com/creat.php on line 11
+[17-Jul-2019 13:32:27 America/New_York] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/uzzaorti/infobeginner.com/creat.php on line 12
+[17-Jul-2019 13:32:27 America/New_York] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/uzzaorti/infobeginner.com/creat.php on line 12
+[17-Jul-2019 13:32:27 America/New_York] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/uzzaorti/infobeginner.com/creat.php on line 12
+[17-Jul-2019 13:32:27 America/New_York] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/uzzaorti/infobeginner.com/creat.php on line 13
+[17-Jul-2019 13:32:27 America/New_York] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/uzzaorti/infobeginner.com/creat.php on line 13
+[17-Jul-2019 13:32:27 America/New_York] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/uzzaorti/infobeginner.com/creat.php on line 13
+[17-Jul-2019 13:32:39 America/New_York] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/uzzaorti/infobeginner.com/creat.php on line 11
+[17-Jul-2019 13:32:39 America/New_York] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/uzzaorti/infobeginner.com/creat.php on line 11
+[17-Jul-2019 13:32:39 America/New_York] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/uzzaorti/infobeginner.com/creat.php on line 11
+[17-Jul-2019 13:32:39 America/New_York] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/uzzaorti/infobeginner.com/creat.php on line 12
+[17-Jul-2019 13:32:39 America/New_York] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/uzzaorti/infobeginner.com/creat.php on line 12
+[17-Jul-2019 13:32:39 America/New_York] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/uzzaorti/infobeginner.com/creat.php on line 12
+[17-Jul-2019 13:32:39 America/New_York] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/uzzaorti/infobeginner.com/creat.php on line 13
+[17-Jul-2019 13:32:39 America/New_York] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/uzzaorti/infobeginner.com/creat.php on line 13
+[17-Jul-2019 13:32:39 America/New_York] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/uzzaorti/infobeginner.com/creat.php on line 13
+[17-Jul-2019 13:32:42 America/New_York] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/uzzaorti/infobeginner.com/creat.php on line 11
+[17-Jul-2019 13:32:42 America/New_York] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/uzzaorti/infobeginner.com/creat.php on line 11
+[17-Jul-2019 13:32:42 America/New_York] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/uzzaorti/infobeginner.com/creat.php on line 11
+[17-Jul-2019 13:32:42 America/New_York] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/uzzaorti/infobeginner.com/creat.php on line 12
+[17-Jul-2019 13:32:42 America/New_York] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/uzzaorti/infobeginner.com/creat.php on line 12
+[17-Jul-2019 13:32:42 America/New_York] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/uzzaorti/infobeginner.com/creat.php on line 12
+[17-Jul-2019 13:32:42 America/New_York] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/uzzaorti/infobeginner.com/creat.php on line 13
+[17-Jul-2019 13:32:42 America/New_York] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/uzzaorti/infobeginner.com/creat.php on line 13
+[17-Jul-2019 13:32:42 America/New_York] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/uzzaorti/infobeginner.com/creat.php on line 13
+[17-Jul-2019 13:32:58 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/uzzaorti/infobeginner.com/creat.php on line 68
+[17-Jul-2019 13:33:02 America/New_York] PHP Parse error:  syntax error, unexpected end of file in /home/uzzaorti/infobeginner.com/creat.php on line 68
+[17-Jul-2019 13:33:49 America/New_York] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/uzzaorti/infobeginner.com/creat.php on line 11
+[17-Jul-2019 13:33:49 America/New_York] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/uzzaorti/infobeginner.com/creat.php on line 11
+[17-Jul-2019 13:33:49 America/New_York] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/uzzaorti/infobeginner.com/creat.php on line 11
+[17-Jul-2019 13:33:49 America/New_York] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/uzzaorti/infobeginner.com/creat.php on line 12
+[17-Jul-2019 13:33:49 America/New_York] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/uzzaorti/infobeginner.com/creat.php on line 12
+[17-Jul-2019 13:33:49 America/New_York] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/uzzaorti/infobeginner.com/creat.php on line 12
+[17-Jul-2019 13:33:49 America/New_York] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/uzzaorti/infobeginner.com/creat.php on line 13
+[17-Jul-2019 13:33:49 America/New_York] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/uzzaorti/infobeginner.com/creat.php on line 13
+[17-Jul-2019 13:33:49 America/New_York] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/uzzaorti/infobeginner.com/creat.php on line 13
+[17-Jul-2019 13:34:17 America/New_York] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/uzzaorti/infobeginner.com/creat.php on line 11
+[17-Jul-2019 13:34:17 America/New_York] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/uzzaorti/infobeginner.com/creat.php on line 11
+[17-Jul-2019 13:34:17 America/New_York] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/uzzaorti/infobeginner.com/creat.php on line 11
+[17-Jul-2019 13:34:17 America/New_York] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/uzzaorti/infobeginner.com/creat.php on line 12
+[17-Jul-2019 13:34:17 America/New_York] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/uzzaorti/infobeginner.com/creat.php on line 12
+[17-Jul-2019 13:34:17 America/New_York] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/uzzaorti/infobeginner.com/creat.php on line 12
+[17-Jul-2019 13:34:17 America/New_York] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/uzzaorti/infobeginner.com/creat.php on line 13
+[17-Jul-2019 13:34:17 America/New_York] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/uzzaorti/infobeginner.com/creat.php on line 13
+[17-Jul-2019 13:34:17 America/New_York] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/uzzaorti/infobeginner.com/creat.php on line 13
+[17-Jul-2019 13:37:14 America/New_York] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/uzzaorti/infobeginner.com/creat.php on line 11
+[17-Jul-2019 13:37:14 America/New_York] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/uzzaorti/infobeginner.com/creat.php on line 11
+[17-Jul-2019 13:37:14 America/New_York] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/uzzaorti/infobeginner.com/creat.php on line 11
+[17-Jul-2019 13:37:14 America/New_York] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/uzzaorti/infobeginner.com/creat.php on line 12
+[17-Jul-2019 13:37:14 America/New_York] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/uzzaorti/infobeginner.com/creat.php on line 12
+[17-Jul-2019 13:37:14 America/New_York] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/uzzaorti/infobeginner.com/creat.php on line 12
+[17-Jul-2019 13:37:14 America/New_York] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/uzzaorti/infobeginner.com/creat.php on line 13
+[17-Jul-2019 13:37:14 America/New_York] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/uzzaorti/infobeginner.com/creat.php on line 13
+[17-Jul-2019 13:37:14 America/New_York] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/uzzaorti/infobeginner.com/creat.php on line 13
+[17-Jul-2019 13:39:09 America/New_York] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/uzzaorti/infobeginner.com/creat.php on line 11
+[17-Jul-2019 13:39:09 America/New_York] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/uzzaorti/infobeginner.com/creat.php on line 11
+[17-Jul-2019 13:39:09 America/New_York] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/uzzaorti/infobeginner.com/creat.php on line 11
+[17-Jul-2019 13:39:09 America/New_York] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/uzzaorti/infobeginner.com/creat.php on line 12
+[17-Jul-2019 13:39:09 America/New_York] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/uzzaorti/infobeginner.com/creat.php on line 12
+[17-Jul-2019 13:39:09 America/New_York] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/uzzaorti/infobeginner.com/creat.php on line 12
+[17-Jul-2019 13:39:09 America/New_York] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/uzzaorti/infobeginner.com/creat.php on line 13
+[17-Jul-2019 13:39:09 America/New_York] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/uzzaorti/infobeginner.com/creat.php on line 13
+[17-Jul-2019 13:39:09 America/New_York] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/uzzaorti/infobeginner.com/creat.php on line 13
+[17-Jul-2019 13:50:14 America/New_York] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/uzzaorti/infobeginner.com/creat.php on line 11
+[17-Jul-2019 13:50:14 America/New_York] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/uzzaorti/infobeginner.com/creat.php on line 11
+[17-Jul-2019 13:50:14 America/New_York] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/uzzaorti/infobeginner.com/creat.php on line 11
+[17-Jul-2019 13:50:14 America/New_York] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/uzzaorti/infobeginner.com/creat.php on line 12
+[17-Jul-2019 13:50:14 America/New_York] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/uzzaorti/infobeginner.com/creat.php on line 12
+[17-Jul-2019 13:50:14 America/New_York] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/uzzaorti/infobeginner.com/creat.php on line 12
+[17-Jul-2019 13:50:14 America/New_York] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/uzzaorti/infobeginner.com/creat.php on line 13
+[17-Jul-2019 13:50:14 America/New_York] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/uzzaorti/infobeginner.com/creat.php on line 13
+[17-Jul-2019 13:50:14 America/New_York] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/uzzaorti/infobeginner.com/creat.php on line 13
+[17-Jul-2019 16:40:05 America/New_York] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/uzzaorti/infobeginner.com/creat.php on line 11
+[17-Jul-2019 16:40:05 America/New_York] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/uzzaorti/infobeginner.com/creat.php on line 11
+[17-Jul-2019 16:40:05 America/New_York] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/uzzaorti/infobeginner.com/creat.php on line 11
+[17-Jul-2019 16:40:05 America/New_York] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/uzzaorti/infobeginner.com/creat.php on line 12
+[17-Jul-2019 16:40:05 America/New_York] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/uzzaorti/infobeginner.com/creat.php on line 12
+[17-Jul-2019 16:40:05 America/New_York] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/uzzaorti/infobeginner.com/creat.php on line 12
+[17-Jul-2019 16:40:05 America/New_York] PHP Deprecated:  mysql_real_escape_string(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/uzzaorti/infobeginner.com/creat.php on line 13
+[17-Jul-2019 16:40:05 America/New_York] PHP Warning:  mysql_real_escape_string(): Access denied for user 'root'@'localhost' (using password: NO) in /home/uzzaorti/infobeginner.com/creat.php on line 13
+[17-Jul-2019 16:40:05 America/New_York] PHP Warning:  mysql_real_escape_string(): A link to the server could not be established in /home/uzzaorti/infobeginner.com/creat.php on line 13
+[17-Jul-2019 16:46:08 America/New_York] PHP Fatal error:  Function name must be a string in /home/uzzaorti/infobeginner.com/update.php on line 8
+[17-Jul-2019 16:46:12 America/New_York] PHP Fatal error:  Function name must be a string in /home/uzzaorti/infobeginner.com/update.php on line 8
+[17-Jul-2019 16:47:09 America/New_York] PHP Fatal error:  Function name must be a string in /home/uzzaorti/infobeginner.com/update.php on line 8
+[17-Jul-2019 16:47:20 America/New_York] PHP Fatal error:  Function name must be a string in /home/uzzaorti/infobeginner.com/update.php on line 8
+[17-Jul-2019 16:49:54 America/New_York] PHP Fatal error:  Function name must be a string in /home/uzzaorti/infobeginner.com/update.php on line 8
+[17-Jul-2019 16:50:02 America/New_York] PHP Fatal error:  Function name must be a string in /home/uzzaorti/infobeginner.com/update.php on line 8
+[17-Jul-2019 22:21:24 America/New_York] PHP Fatal error:  Function name must be a string in /home/uzzaorti/infobeginner.com/update.php on line 8
+[18-Jul-2019 08:49:06 America/New_York] PHP Fatal error:  Function name must be a string in /home/uzzaorti/infobeginner.com/update.php on line 8
+[18-Jul-2019 10:00:54 America/New_York] PHP Fatal error:  Function name must be a string in /home/uzzaorti/infobeginner.com/update.php on line 8
+[18-Jul-2019 10:06:45 America/New_York] PHP Fatal error:  Function name must be a string in /home/uzzaorti/infobeginner.com/update.php on line 8
+[18-Jul-2019 10:24:39 America/New_York] PHP Fatal error:  Function name must be a string in /home/uzzaorti/infobeginner.com/update.php on line 8
+[18-Jul-2019 11:02:54 America/New_York] PHP Fatal error:  Function name must be a string in /home/uzzaorti/infobeginner.com/update.php on line 8
+[18-Jul-2019 16:03:49 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/uzzaorti/infobeginner.com/creat.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uzzaorti/infobeginner.com/creat.php on line 11
+[18-Jul-2019 16:03:57 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/uzzaorti/infobeginner.com/creat.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uzzaorti/infobeginner.com/creat.php on line 11
+[18-Jul-2019 16:04:50 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_real_escape_string() in /home/uzzaorti/infobeginner.com/creat.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uzzaorti/infobeginner.com/creat.php on line 11
